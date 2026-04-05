@@ -5,7 +5,7 @@
 // Set enabled: false to disable order alerts without breaking anything.
 const TELEGRAM_CONFIG = {
   token: '8761766941:AAFi_564K2Fdd9ShCUkDGF1BzfnvVubdQnw',
-  chatIds: ['8559533318', '386951891', '1378997306'], // Array of chat IDs to notify
+  chatIds: ['8559533318', '386951891', '1378997306'], // Array of chat IDs to Send orders to...
   enabled: true
 };
 
